@@ -5,3 +5,7 @@ psycopg2==2.7.1
 pytz==2017.2
 whitenoise==3.3.0
 psycopg2==2.7.1
+djangorestframework==3.6.3
+django-mathfilters==0.4.0
+yahoo-finance==1.4.0
+simplejson==3.11.1
